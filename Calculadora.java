@@ -3,5 +3,7 @@ public Class Calculadora{
   int a,b;
   System.out.println(a+b);
   System.out.println(a-b);
+  System.out.println(a*b);
+  System.out.println(a/b);
   }
 }  
